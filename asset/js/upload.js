@@ -216,7 +216,6 @@ function render_uploaded() {
         
         const WPRAW = "https://wsrv.nl/?url=https://telegra.ph"  //使用wordpress.com加速
         const PhRAW = "https://telegra.ph"   //原地址
-        const WPRAW = "https://i3.wp.com/img.jjj.gay"
         const PROXYURL = "https://i3.wp.com/img.jjj.gay"  //自定义加速域名 默认是使用cloudflare
         const BASE_PROXYURL = PROXYURL ? PROXYURL : BASE_URL;
         
